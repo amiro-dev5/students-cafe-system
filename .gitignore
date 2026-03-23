@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+db.sqlite3
+media/
+menu_images/
+ngrok.exe
+node_modules/
+.vscode/
